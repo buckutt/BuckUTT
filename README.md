@@ -13,6 +13,8 @@ Les projets actuellements mis en place pour faire fonctionner BuckUTT sont les s
 
 Ces projets sont en développement et qui ne seront peut-être jamais mis en production !
 
+* Proposition de serveur se basant sur [RethinkDB](http://rethinkdb.com/) plutôt que MySQL : [Eve-Server](https://github.com/buckutt/Eve-Server).
+* Client conçu pour [Eve-server](https://github.com/buckutt/Eve-Server), interface « [Material design](https://www.google.com/design/spec/material-design/introduction.html) ». [Eve-Client](https://github.com/buckutt/Eve-Client).
 * Proposition de changement du serveur : [BuckUTT-API](https://github.com/buckutt/BuckUTT-API). 
 * Proposition de changement de client : [BuckUTT-client](https://github.com/buckutt/BuckUTT-client).
 * Proposition d'ajout d'une billetterie, prévue pour [BuckUTT-API](https://github.com/buckutt/BuckUTT-API) : [BuckUTT-pay](https://github.com/buckutt/BuckUTT-pay).
